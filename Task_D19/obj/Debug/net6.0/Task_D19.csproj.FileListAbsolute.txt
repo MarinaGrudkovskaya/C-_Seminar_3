@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\bin\Debug\net6.0\Task_D19.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\bin\Debug\net6.0\Task_D19.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\bin\Debug\net6.0\Task_D19.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\bin\Debug\net6.0\Task_D19.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\bin\Debug\net6.0\Task_D19.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\refint\Task_D19.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\Task_D19.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_3\Task_D19\obj\Debug\net6.0\ref\Task_D19.dll
